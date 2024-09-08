@@ -806,6 +806,7 @@ img {
     max-block-size: 3rem;
   }
   .about__button{
+    margin-top: 52px;
     width: initial;
   }
 
